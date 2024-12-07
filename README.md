@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm an aspiring Software Engineer with a background in Linguistics. Interested in NLP, data science, and analytics; still figuring out which one I like better.
+I'm an aspiring Software Engineer with a background in Linguistics. Currently working on my NLP thesis.
 
 You can also find me on <a href="https://gitee.com/malymary" title="gitee">Gitee</a>.
 
@@ -13,31 +13,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 <a href="https://pytorch.org/" title="PyTorch">
 <img align="left" alt="pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-</a>
-
-<a href="https://pandas.pydata.org/" title="Pandas">
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-</a>
-
-<a href="https://numpy.org/" title="NumPy">
-<img align="left" alt="numpy" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-</a>
-
-<a href="https://numpy.org/" title="Seaborn">
-<img align="left" alt="numpy" width="30px" style="padding-right:10px;"
-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-</a>
-
-<a href="https://www.r-project.org/about.html" title="R">
-<img align="left" alt="numpy" width="30px" style="padding-right:10px;"
-src="https://www.r-project.org/logo/Rlogo.svg"/>
-</a>
-
-<a href="https://code.visualstudio.com/" title="Visual Studio">
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </a>
 
 <a href="https://jupyter.org/" title="Jupyter">
