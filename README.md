@@ -1,8 +1,6 @@
 # Welcome to my GitHub profile!
 
-Right now I'm studying to be a Cybersecurity Engineer.
-Particularly interested in network security.
-Also curious about LLMs, adversarial attacks on neural networks, and detection of AI-generated content.
+I'm an aspiring Cybersecurity Engineer. Particularly interested in GenAI security.
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/39b670b0-3dae-434c-908f-b6eaed5cdfbb"/>
