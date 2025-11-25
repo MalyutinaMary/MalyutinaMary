@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm an aspiring Cybersecurity Engineer. Particularly interested in GenAI security.
+I'm into AI and Cybersecurity.
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/39b670b0-3dae-434c-908f-b6eaed5cdfbb"/>
